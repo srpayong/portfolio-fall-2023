@@ -15,11 +15,13 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-test-id="pageTitle" className="title">
-              Hello, Sharmaine!
+              Hello, My name is Sharmaine!
             </h1>
             <p className="description">
-              Saya seorang pekerja lepas pengembang web, fotograper, desainer
-              antarmuka pengguna, dan penulis.
+              Hello there! I'm Sharmaine, a Full Stack Web Developer with a keen
+              passion for Frontend Development and UI/UX Design. In this digital
+              space, I invite you to explore my journey, witness the evolution
+              of my skills, and dive into the realm of my creative endeavors.
             </p>
 
             <Link href="/contact" className="cta">

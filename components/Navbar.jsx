@@ -7,14 +7,13 @@ function Navbar({ router }) {
     { text: 'About', href: '/about', dataCy: 'aboutPageLink' },
     { text: 'Portfolio', href: '/portfolio', dataCy: 'portfolioPageLink' },
     { text: 'Contact', href: '/contact', dataCy: 'contactPageLink' },
-    // { text: '', href: '' },
   ];
 
   return (
     <nav className="navbar">
       <div className="container">
         <Link href="/" className="logo">
-          Lutfhi.
+          Code Canvas Studio
         </Link>
 
         <ul className="nav-links">
